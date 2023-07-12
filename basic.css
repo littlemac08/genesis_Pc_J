@@ -152,7 +152,7 @@ main .wrap .banner-wrap {
 main .wrap .banner-img {
     width:1920px;
     height:867px;
-    background-image:url('../source/img/main7_slide.jpg');
+    background-image:url('./img/main7_slide.jpg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -383,28 +383,28 @@ main .wrap .icon .icon-inner .inner-link:nth-of-type(1) .link a .link-icon {
     display:inline-block;
     width:60px;
     height:60px;
-    background:url('../source/img/logo_carcare.gif');
+    background:url('./img/logo_carcare.gif');
     margin-bottom:30px;
 }
 main .wrap .icon .icon-inner .inner-link:nth-of-type(2) .link a .link-icon {
     display:inline-block;
     width:60px;
     height:60px;
-    background:url('../source/img/logo_doc.gif');
+    background:url('./img/logo_doc.gif');
     margin-bottom:30px;
 }
 main .wrap .icon .icon-inner .inner-link:nth-of-type(3) .link a .link-icon {
     display:inline-block;
     width:60px;
     height:60px;
-    background:url('../source/img/logo_handle.gif');
+    background:url('./img/logo_handle.gif');
     margin-bottom:30px;
 }
 main .wrap .icon .icon-inner .inner-link:nth-of-type(4) .link a .link-icon {
     display:inline-block;
     width:60px;
     height:60px;
-    background:url('../source/img/logo_docdown.gif');
+    background:url('./img/logo_docdown.gif');
     margin-bottom:30px;
 }
 main .wrap .icon .icon-inner .inner-link .link a .link-text {
@@ -446,7 +446,7 @@ main .wrap .awards .content-img {
     position:relative;
     width:1920px;
     height:844px;
-    background:url('../source/img/sub5_slide.jpeg');
+    background:url('./img/sub5_slide.jpeg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -495,7 +495,7 @@ main .wrap .history .left-wrap{
 main .wrap .history .left-wrap .wrap-img{
     width:932px;
     height:524px;
-    background:url('../source/img/sub_content_left.jpg');
+    background:url('./img/sub_content_left.jpg');
     background-repeat:no-repeat;
     background-position:center;
     background-size:cover;
@@ -541,7 +541,7 @@ main .wrap .history .right-wrap .wrap-img{
     display:block;
     width:932px;
     height:524px;
-    background:url('../source/img/sub_content_right.jpg');
+    background:url('./img/sub_content_right.jpg');
     background-repeat:no-repeat;
     background-position:center;
     background-size:cover;
@@ -594,7 +594,7 @@ main .wrap .event .wrap-img {
     display:block;
     width:1920px;
     height:844px;
-    background:url('../source/img/sub_content_bottom.jpg');
+    background:url('./img/sub_content_bottom.jpg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -663,7 +663,7 @@ main .wrap .inst .inst-content .content-left span {
     content:"";
     width:100%;
     height:100%;
-    background:url('../source/img/sub_content_box1.jpg');
+    background:url('./img/sub_content_box1.jpg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -693,7 +693,7 @@ main .wrap .inst .inst-content .content-center span {
     content:"";
     width:100%;
     height:100%;
-    background:url('../source/img/sub_content_box2.jpg');
+    background:url('./img/sub_content_box2.jpg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -723,7 +723,7 @@ main .wrap .inst .inst-content .content-right span {
     content:"";
     width:100%;
     height:100%;
-    background:url('../source/img/sub_content_box3.jpg');
+    background:url('./img/sub_content_box3.jpg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -807,7 +807,7 @@ main .wrap .add-content .left .img{
     content:"";
     width:513px;
     height:330px;
-    background:url('../source/img/footer_img1.jpeg');
+    background:url('./img/footer_img1.jpeg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -838,7 +838,7 @@ main .wrap .add-content .center .img {
     content:"";
     width:513px;
     height:330px;
-    background:url('../source/img/footer_img2.webp');
+    background:url('./img/footer_img2.webp');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -869,7 +869,7 @@ main .wrap .add-content .right .img {
     content:"";
     width:513px;
     height:330px;
-    background:url('../source/img/footer_img2.webp');
+    background:url('./img/footer_img2.webp');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
