@@ -1,7 +1,7 @@
 @charset "UTF-8";
 
 body {
-    max-width:1920px;
+    max-width:100%;
     margin:auto;
     background:RGB(17, 17, 17);
     color:white;
@@ -16,10 +16,9 @@ input {
         position:fixed;
         top:0;
         left:0;
-        width:100%;
         height:69px;
         margin:auto;
-        max-width:1920px;
+        max-width:100%;
         padding:0 140px;
         background:RGB(17, 17, 17);
         z-index:100;
@@ -143,7 +142,7 @@ input {
 
 /* -- main START -- */
 main {
-    width:1920px;
+    width:100%;
 }
 main .wrap {}
 main .wrap .container {}
@@ -152,7 +151,7 @@ main .wrap .banner-wrap {
     position:relative;
 }
 main .wrap .banner-img {
-    width:1920px;
+    width:100%;
     height:867px;
     background-image:url('./img/main7_slide.jpg');
     background-repeat: no-repeat;
@@ -190,7 +189,7 @@ main .wrap .banner-text2 {}
     /* -- lineup START -- */
 main .wrap .lineup {
     display:block;
-    max-width:1920px;
+    max-width:100%;
     height:746px;
     padding:0 140px;
     margin:auto;
@@ -355,7 +354,7 @@ main .wrap .lineup .lineup-main .lineup-thumbnail .btn:before {
     /* -- icon START -- */
 main .wrap .icon {
     display:block;
-    max-width:1920px;
+    max-width:100%;
     padding:0 140px;
     margin:150px auto;
 }
@@ -418,7 +417,7 @@ main .wrap .icon .icon-inner .inner-link .link a .link-text {
 -- 제거 --
 main .wrap .awards {
     display:block;
-    max-width:1920px;
+    max-width:100%;
     padding:0 140px;
     margin:150px auto;
 }
@@ -446,7 +445,7 @@ main .wrap .awards .awards-content {
 main .wrap .awards .content-img {
     display:block;
     position:relative;
-    width:1920px;
+    width:100%;
     height:844px;
     background:url('./img/sub5_slide.jpeg');
     background-repeat: no-repeat;
@@ -480,13 +479,13 @@ main .wrap .awards .awards-content .content-text .text-sub {
         /* -- left-wrap STRAT -- */
 main .wrap .history {
     display:block;
-    max-width:1920px;
+    max-width:100%;
     height:524px;
     margin-bottom:200px;
 }
 main .wrap .history .history-inner {
     display:block;
-    max-width:1920px;
+    max-width:100%;
     margin:150px auto;
 }
 main .wrap .history .left-wrap{
@@ -583,18 +582,18 @@ main .wrap .history .right-wrap .wrap-text .text-link{
     /* -- event START -- */
 main .wrap .event {
     display:block;
-    max-width:1920px;
+    max-width:100%;
     margin-bottom:200px;
 }
 main .wrap .event .event-wrap {
     display:block;
     position:relative;
-    width:1920px;
+    width:100%;
     height:844px;
 }
 main .wrap .event .wrap-img {
     display:block;
-    width:1920px;
+    width:100%;
     height:844px;
     background:url('./img/sub_content_bottom.jpg');
     background-repeat: no-repeat;
@@ -633,7 +632,7 @@ main .wrap .event .wrap-text .text-link {
     /* -- inst START -- */
 main .wrap .inst {
     display:block;
-    max-width:1920px;
+    max-width:100%;
     background:white;
     color:black;
 }
@@ -782,7 +781,7 @@ main .wrap .inst .inst-more span:nth-child(2) {
     /* -- add START -- */
 main .wrap .add-content {
     display:block;
-    max-width:1920px;
+    max-width:100%;
     padding:0 140px;
     background:white;
     color:black;
